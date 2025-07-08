@@ -1,0 +1,20 @@
+# #!/bin/sh
+sleep 15
+echo "Hello PetaLinux lovers, Test-Pufs is going to be run!"
+
+#Load the kernel module for the WILC3000 WiFi 
+#modprobe wilc-sdio
+
+#sleep 20
+
+
+#cd /home/root
+
+#sh wpa-supplicant.sh
+#sh wifi.sh
+
+#sleep 10
+
+test-pufs
+
+
