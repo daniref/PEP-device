@@ -1,0 +1,3 @@
+[submodule "ultra96v2PUF/project-spec/meta-user/recipes-apps/test-pufs/files"]
+	path = ultra96v2PUF/project-spec/meta-user/recipes-apps/test-pufs/files
+	url = git@github.com:daniref/PEP-device-application.git
